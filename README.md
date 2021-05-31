@@ -31,6 +31,7 @@ Oi, tudo bem? Me chamo João Vitor, sou estudante de Ciência da Computação na
  <img src= "https://img.shields.io/badge/-MySQL-F8F8F8?style=flat&logo=mysql&logoColor=DD732D"> 
  <img src= "https://img.shields.io/badge/-Postman-2B2B31?style=flat&logo=postman&logoColor=EB5824">
  <img src= "https://img.shields.io/badge/-Linux-2B2B31?style=flat&logo=linux&logoColor=EB5824">
+ <img src= "https://img.shields.io/badge/-Spring-2B2B31?style=flat&logo=spring&logoColor=EB5824">
 </div>
  
 ##
