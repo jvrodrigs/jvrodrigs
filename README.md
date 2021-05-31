@@ -21,6 +21,7 @@ Oi, tudo bem? Me chamo João Vitor, sou estudante de Ciência da Computação na
  <img src= "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> 
  <img src= "https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=eed718">
  <img src= "https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript&logoColor=blue">
+ <img src= "https://img.shields.io/badge/-Angular-2B2B31?style=flat&logo=angular&logoColor=white">
  <img src= "https://img.shields.io/badge/-Java-06305b?style=flat&logo=java&logoColor=white">
  <img src= "https://img.shields.io/badge/-Spring-2B2B31?style=flat&logo=spring&logoColor=white"><br/>
  <img src= "https://img.shields.io/badge/-Python%20-F6CA3E?style=flat&logo=python&logoColor=Dff">
