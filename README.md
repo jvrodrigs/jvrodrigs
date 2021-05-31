@@ -21,7 +21,8 @@ Oi, tudo bem? Me chamo João Vitor, sou estudante de Ciência da Computação na
  <img src= "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> 
  <img src= "https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=eed718">
  <img src= "https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript&logoColor=blue">
- <img src= "https://img.shields.io/badge/-Java-06305b?style=flat&logo=java&logoColor=white"> <br/>
+ <img src= "https://img.shields.io/badge/-Java-06305b?style=flat&logo=java&logoColor=white">
+ <img src= "https://img.shields.io/badge/-Spring-2B2B31?style=flat&logo=spring&logoColor=white"><br/>
  <img src= "https://img.shields.io/badge/-Python%20-F6CA3E?style=flat&logo=python&logoColor=Dff">
  <img src= "https://img.shields.io/badge/-Visual%20Studio%20Code-2B2B31?style=flat&logo=visual%20studio%20code&logoColor=1A76C5"> 
  <img src= "https://img.shields.io/badge/-Git-black?style=flat&logo=git&logoColor=E34F26"> 
@@ -31,7 +32,6 @@ Oi, tudo bem? Me chamo João Vitor, sou estudante de Ciência da Computação na
  <img src= "https://img.shields.io/badge/-MySQL-F8F8F8?style=flat&logo=mysql&logoColor=DD732D"> 
  <img src= "https://img.shields.io/badge/-Postman-2B2B31?style=flat&logo=postman&logoColor=EB5824">
  <img src= "https://img.shields.io/badge/-Linux-2B2B31?style=flat&logo=linux&logoColor=white">
- <img src= "https://img.shields.io/badge/-Spring-2B2B31?style=flat&logo=spring&logoColor=white">
 </div>
  
 ##
