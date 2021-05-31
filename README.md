@@ -4,6 +4,7 @@
 
 <div>
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jvrodrigs/)
+(https://github.com/milenacarecho) 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jvrodrigsuni@edu.unifor.br) 
 <div>
 
