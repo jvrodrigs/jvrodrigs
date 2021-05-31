@@ -1,11 +1,14 @@
 ## João Vitor
 
-##
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jvrodrigs/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jvrodrigsuni@edu.unifor.br) 
 
- <div>
+<br>
+
+Oi, tudo bem? Me chamo João Vitor, sou estudante de Ciência da Computação na Universidade de Fortaleza - Unifor. Apaixonado por tecnologia e jogos. 
+
+<div>
   <a href="https://github.com/jvrodrigs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jvrodrigs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvrodrigs&layout=compact&langs_count=16&theme=dracula"/>
@@ -25,6 +28,7 @@
  <img src= "https://img.shields.io/badge/-PostgreSQL-F8F8F8?style=flat&logo=postgresql&logoColor=31648D"> <br/>
  <img src= "https://img.shields.io/badge/-MySQL-F8F8F8?style=flat&logo=mysql&logoColor=DD732D"> 
  <img src= "https://img.shields.io/badge/-Postman-2B2B31?style=flat&logo=postman&logoColor=EB5824">
+ <img src= "https://img.shields.io/badge/-Linux-2B2B31?style=flat&logo=linux&logoColor=EB5824">
 </div>
  
 ##
