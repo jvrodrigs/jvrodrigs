@@ -6,7 +6,7 @@
 
 <br>
 
-Oi, tudo bem? Me chamo João Vitor, sou estudante de Ciência da Computação na Universidade de Fortaleza - Unifor. Apaixonado por tecnologia e jogos. 
+Oi, tudo bem? Me chamo João Vitor, sou formado em Ciência da Computação na Universidade de Fortaleza - Unifor. Apaixonado por tecnologia e jogos. 
 
 <div>
   <a href="https://github.com/jvrodrigs">
