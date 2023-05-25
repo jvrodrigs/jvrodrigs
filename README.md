@@ -36,6 +36,3 @@ Oi, tudo bem? Me chamo João Vitor, sou formado em Ciência da Computação na U
 </div>
  
 ##
-
-  
-![Snake animation](https://github.com/jvrodrigs/jvrodrigs/blob/output/github-contribution-grid-snake.svg)
