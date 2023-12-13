@@ -16,7 +16,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: VSCode, IntelliJ, DBeaver, Figma, Automações com Python
+  💼 Ferramentas: VSCode, IntelliJ, DBeaver, Figma, Automações com Python e Outros..
 </p>
 
 <p align="left">
