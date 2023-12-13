@@ -1,38 +1,27 @@
-## João Vitor 🤙🏼😆
+<img src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
+<p align="left"> 
+  Mestrando em Informatica Aplicada, na Universidade de Fortaleza - PPGIA, sou apaixonado por programação, desafios e tecnologia! Com foco em sempre evoluir como programador, como pessoa, aprender diariamente, fazer novos amigos e sempre, que possível, compartilhar conhecimentos.
+  <br>
+  <br>
+  Ao passar dos anos, adquirir como principal experiência o desenvolvimento de sistemas com SpringBoot, Angular e AWS. Mas, também, obtive experiência com JavaScript, TypeScript, Node.js, React, Automação com Python, Postgres e GitHub/GitLab.
+</p>
+
+<p align="left">
+  🦄 Linguagens: Java, JavaScript, TypeScript e Python.
+</p>
+
+<p align="left">
+  📚 Frameworks, Platforms and Libraries: SpringBoot, Angular, Nodejs, AWS, Github/GitLab, PostgreSQL, MongoDB e NoSQL.
+</p>
+
+<p align="left">
+  💼 Ferramentas: VSCode, IntelliJ, DBeaver, Figma, Automações com Python
+</p>
+
+<p align="left">
+  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+</p>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jvrodrigs/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jvrodrigsuni@edu.unifor.br) 
-
-<br>
-
-Oi, tudo bem? Me chamo João Vitor, sou formado em Ciência da Computação na Universidade de Fortaleza - Unifor. Apaixonado por tecnologia e jogos. 
-
-<div>
-  <a href="https://github.com/jvrodrigs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jvrodrigs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvrodrigs&layout=compact&langs_count=16&theme=dracula"/>
-<div>
-
-##
-  
-<div style="display: inline_block"><br>
- <img src= "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
- <img src= "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> 
- <img src= "https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=eed718">
- <img src= "https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript&logoColor=blue">
- <img src= "https://img.shields.io/badge/-Angular-2B2B31?style=flat&logo=angular&logoColor=white">
- <img src= "https://img.shields.io/badge/-Java-06305b?style=flat&logo=java&logoColor=white">
- <img src= "https://img.shields.io/badge/-Spring-2B2B31?style=flat&logo=spring&logoColor=white"><br/>
- <img src= "https://img.shields.io/badge/-Python%20-F6CA3E?style=flat&logo=python&logoColor=Dff">
- <img src= "https://img.shields.io/badge/-Visual%20Studio%20Code-2B2B31?style=flat&logo=visual%20studio%20code&logoColor=1A76C5"> 
- <img src= "https://img.shields.io/badge/-Git-black?style=flat&logo=git&logoColor=E34F26"> 
- <img src= "https://img.shields.io/badge/-Docker-208DEC?style=flat&logo=docker&logoColor=white">
- <img src= "https://img.shields.io/badge/-MongoDB-F8F8F8?style=flat&logo=mongodb&logoColor=green">
- <img src= "https://img.shields.io/badge/-PostgreSQL-F8F8F8?style=flat&logo=postgresql&logoColor=31648D"> <br/>
- <img src= "https://img.shields.io/badge/-MySQL-F8F8F8?style=flat&logo=mysql&logoColor=DD732D"> 
- <img src= "https://img.shields.io/badge/-Postman-2B2B31?style=flat&logo=postman&logoColor=EB5824">
- <img src= "https://img.shields.io/badge/-Linux-2B2B31?style=flat&logo=linux&logoColor=white">
-</div>
- 
-##
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jvrodrigs@gmail.com) 
